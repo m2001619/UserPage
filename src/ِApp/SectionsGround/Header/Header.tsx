@@ -45,7 +45,7 @@ const Header = () => {
             )}
           ></span>
         </div>
-        <Link to={"/profile"}>
+        <Link to={"UserPage/profile"}>
           <img
             className={classNames("w-8 h-8 cursor-pointer")}
             src={require("../../../img/avatar.png")}
