@@ -1,6 +1,6 @@
 # UserPage 
 ## Click to see design : https://m2001619.github.io/UserPage/
-### used Language: TS 
+### used Language: TypeScript 
 ### used FrameWork : React.js
 ### used Toolkit: 
   * Tailwind Css : https://tailwindcss.com/
