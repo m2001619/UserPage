@@ -10,3 +10,5 @@
   * YUP : https://www.npmjs.com/package/yup
   * Font Awesome : https://fontawesome.com/
   * Headless UI : https://headlessui.com/ 
+
+Note: there is a JSON file in the Source Folder has the all information in the site, and I have connected it with the Global State to make I connection like the one with the BackEnd . 
