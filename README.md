@@ -1,8 +1,8 @@
 # UserPage 
 ## Click to see design : https://m2001619.github.io/UserPage/
-### used Language: TypeScript 
-### used FrameWork : React.js
-### used Toolkit: 
+### Using Language: TypeScript 
+### Using FrameWork : React.js
+### Using Toolkit: 
   * Tailwind Css : https://tailwindcss.com/
   * Zustand : https://zustand-demo.pmnd.rs/
   * React Router : https://reactrouter.com/en/main
