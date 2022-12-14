@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/UserPage/static/css/main.06f2449a.css",
+    "main.js": "/UserPage/static/js/main.d6184e93.js",
+    "static/media/activity-03.png": "/UserPage/static/media/activity-03.d98be99005d485661a2a.png",
+    "static/media/friend-03.jpg": "/UserPage/static/media/friend-03.445e18a752be7d5022cd.jpg",
+    "static/media/course-02.jpg": "/UserPage/static/media/course-02.03ec4ce7f4664c12e42b.jpg",
+    "static/media/activity-02.png": "/UserPage/static/media/activity-02.9d17ea7253559711a9dd.png",
+    "static/media/activity-01.png": "/UserPage/static/media/activity-01.7f3fdfcaaae6e15e2321.png",
+    "static/media/course-05.jpg": "/UserPage/static/media/course-05.d72b933bd8fce7b902e2.jpg",
+    "static/media/welcome.png": "/UserPage/static/media/welcome.3a0dea0e2afe2ce1ab2a.png",
+    "static/media/avatar.png": "/UserPage/static/media/avatar.a96eb7a29284bc051da9.png",
+    "static/media/friend-01.jpg": "/UserPage/static/media/friend-01.bb1c77e1a4ca15a1810a.jpg",
+    "static/media/friend-02.jpg": "/UserPage/static/media/friend-02.24be57583316576ea2cb.jpg",
+    "static/media/course-03.jpg": "/UserPage/static/media/course-03.1098123787f16ee990d0.jpg",
+    "static/media/course-04.jpg": "/UserPage/static/media/course-04.ddc48f09106f63f1b4fe.jpg",
+    "index.html": "/UserPage/index.html",
+    "main.06f2449a.css.map": "/UserPage/static/css/main.06f2449a.css.map",
+    "main.d6184e93.js.map": "/UserPage/static/js/main.d6184e93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06f2449a.css",
+    "static/js/main.d6184e93.js"
+  ]
+}
