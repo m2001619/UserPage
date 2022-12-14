@@ -10,7 +10,7 @@ const Navbar = () => {
   const titlesArr = Object.keys(useBearStore((state) => state.infoArr));
 
   // Get the Selected Component from the Location's href Using "useHref" from React Router Toolkit
-  const currentHref = useHref({}).slice(1); // Use Href Return "/currentLink" => useHref.slice(1) = currentLink
+  const currentHref = useHref({}).split("/")[2]; // Use Href Return "/UserPage/currentLink" => currentLink
 
   return (
     <div
@@ -41,7 +41,7 @@ const Navbar = () => {
       >
         {titlesArr.map((item, index) => (
           <Link
-            to={`/${item}`}
+            to={`/UserPage/${item}`}
             key={index}
             className={classNames(
               "px-3 py-2 w-max md:w-[90%] rounded-md flex items-center text-[14px] cursor-pointer hover:bg-[#f6f6f6] transition-all duration-300",

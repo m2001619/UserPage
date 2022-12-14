@@ -20,14 +20,14 @@ const SectionsGround = () => {
         )}
       >
         <Routes>
-          <Route path={"/"} element={<Dashboard />} />
-          <Route path={"/dashboard"} element={<Dashboard />} />
-          <Route path={"/settings"} element={<Settings />} />
-          <Route path={"/profile"} element={<Profile />} />
-          <Route path={"/projects"} element={<Projects />} />
-          <Route path={"/courses"} element={<Courses />} />
-          <Route path={"/friends"} element={<Friends />} />
-          <Route path={"/files"} element={<Files />} />
+          <Route path={"/UserPage"} element={<Dashboard />} />
+          <Route path={"/UserPage/dashboard"} element={<Dashboard />} />
+          <Route path={"/UserPage/settings"} element={<Settings />} />
+          <Route path={"/UserPage/profile"} element={<Profile />} />
+          <Route path={"/UserPage/projects"} element={<Projects />} />
+          <Route path={"/UserPage/courses"} element={<Courses />} />
+          <Route path={"/UserPage/friends"} element={<Friends />} />
+          <Route path={"/UserPage/files"} element={<Files />} />
         </Routes>
       </div>
     </div>
