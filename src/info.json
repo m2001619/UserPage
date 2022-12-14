@@ -1,0 +1,868 @@
+{
+  "dashboard": {
+    "id": "#dashboard",
+    "title": "Dashboard",
+    "userInfo": {
+      "name": "Muhammed Radwan",
+      "job": "Front End Developer",
+      "projects": 80,
+      "salary": 8500
+    },
+    "yearlyTarget": [
+      {
+        "title": "money",
+        "average": 30000,
+        "thisYear": 20000
+      },
+      {
+        "title": "projects",
+        "average": 50,
+        "thisYear": 24
+      },
+      {
+        "title": "team",
+        "average": 24,
+        "thisYear": 12
+      }
+    ],
+    "ticketsStatistics": [
+      {
+        "title": "Total",
+        "value": 2500
+      },
+      {
+        "title": "Pending",
+        "value": 500
+      },
+      {
+        "title": "Closed",
+        "value": 1900
+      },
+      {
+        "title": "Deleted",
+        "value": 100
+      }
+    ],
+    "latestNews": [
+      {
+        "img": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/news-01.png",
+        "title": "Created SASS Section",
+        "description": "New SASS Examples & Tutorials",
+        "date": "3 Days Ago"
+      },
+      {
+        "img": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/news-02.png",
+        "title": "Changed The Design",
+        "description": "A Brand New Website Design",
+        "date": "5 Days Ago"
+      },
+      {
+        "img": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/news-03.png",
+        "title": "Team Increased",
+        "description": "3 Developers Joined The Team",
+        "date": "7 Days Ago"
+      },
+      {
+        "img": "https://elzerowebschool.github.io/HTML_And_CSS_Template_Four/imgs/news-04.png",
+        "title": "Added Payment Gateway",
+        "description": "Many New Payment Gateways Added",
+        "date": "9 Days Ago"
+      }
+    ],
+    "latestTasks": [
+      {
+        "title": "Record One New Video",
+        "description": "Record Python Create Exe Project"
+      },
+      {
+        "title": "Write Article",
+        "description": "Write Low Level vs High Level Languages"
+      },
+      {
+        "title": "Finish Project",
+        "description": "Publish Academy Programming Project"
+      },
+      {
+        "title": "Attend The Meeting",
+        "description": "Attend The Project Business Analysis Meeting"
+      },
+      {
+        "title": "Finish Lesson",
+        "description": "Finish Teaching Flex Box"
+      }
+    ],
+    "topSearchItems": [
+      {
+        "keyword": "Programming",
+        "searchCount": 220
+      },
+      {
+        "keyword": "JavaScript",
+        "searchCount": 180
+      },
+      {
+        "keyword": "PHP",
+        "searchCount": 160
+      },
+      {
+        "keyword": "Code",
+        "searchCount": 145
+      },
+      {
+        "keyword": "Design",
+        "searchCount": 110
+      },
+      {
+        "keyword": "Logic",
+        "searchCount": 95
+      }
+    ],
+    "latestUploads": [
+      {
+        "fileName": "my-file.pdf",
+        "userName": "Elzero",
+        "fileSize": "2.9mb"
+      },
+      {
+        "fileName": "My-Video-File.avi",
+        "userName": "Admin",
+        "fileSize": "4.9mb"
+      },
+      {
+        "fileName": "My-Psd-File.psd",
+        "userName": "Osama",
+        "fileSize": "4.5mb"
+      },
+      {
+        "fileName": "My-Zip-File.zip",
+        "userName": "User",
+        "fileSize": "8.9mb"
+      },
+      {
+        "fileName": "My-DLL-File.dll",
+        "userName": "Admin",
+        "fileSize": "4.9mb"
+      },
+      {
+        "fileName": "My-Eps-File.eps",
+        "userName": "Designer",
+        "fileSize": "8.9mb"
+      }
+    ],
+    "lastProjectProgress": [
+      {
+        "text": "Got The Project",
+        "status": "Completed"
+      },
+      {
+        "text": "Started The Project",
+        "status": "Completed"
+      },
+      {
+        "text": "The Project About To Finish",
+        "status": "Completed"
+      },
+      {
+        "text": "Test The Project",
+        "status": "inProgress"
+      },
+      {
+        "text": "Finish The Project & Get Money",
+        "status": "Pending"
+      }
+    ],
+    "Reminders": [
+      {
+        "text": "Check My Tasks List",
+        "date": "28/09/2022 - 12:00am"
+      },
+      {
+        "text": "Check My Projects",
+        "date": "26/10/2022 - 12:00am"
+      },
+      {
+        "text": "Call All My Clients",
+        "date": "05/11/2022 - 12:00am"
+      },
+      {
+        "text": "Finish The Development Workshop",
+        "date": "20/12/2022 - 12:00am"
+      }
+    ],
+    "latestPost": {
+      "user": "Osama Elzero",
+      "date": "About 3 Hours Ago",
+      "postText": "You Can Fool All Of The People Some Of The Time, And Some Of The People All Of The Time, But You Can't Fool All Of The People All Of The Time.",
+      "likesCount": "1.8K",
+      "commentsCount": "500"
+    },
+    "socialMediaStats": [
+      {
+        "name": "twitter",
+        "stat": "90K Followers",
+        "StatType": "Follow"
+      },
+      {
+        "name": "facebook",
+        "stat": "2M Like",
+        "StatType": "like"
+      },
+      {
+        "name": "youtube",
+        "stat": "1M Subs",
+        "StatType": "subscribe"
+      },
+      {
+        "name": "linkedin",
+        "stat": "70K Followers",
+        "StatType": "Follow"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ministry Wikipedia",
+        "finishDate": "10 May 2022",
+        "client": "Ministry",
+        "price": "5300",
+        "team": 4,
+        "status": "Pending"
+      },
+      {
+        "name": "Ministry Wikipedia",
+        "finishDate": "10 May 2022",
+        "client": "Ministry",
+        "price": "5300",
+        "team": 4,
+        "status": "Pending"
+      },
+      {
+        "name": "Elzero Shop",
+        "finishDate": "12 Oct 2021",
+        "client": "Elzero Company",
+        "price": "1500",
+        "team": 3,
+        "status": "In Progress"
+      },
+      {
+        "name": "Bouba App",
+        "finishDate": "05 Sep 2021",
+        "client": "Bouba",
+        "price": "800",
+        "team": 2,
+        "status": "Completed"
+      },
+      {
+        "name": "Mahmoud Website",
+        "finishDate": "22 May 2021",
+        "client": "Mahmoud",
+        "price": "600",
+        "team": 2,
+        "status": "Completed"
+      },
+      {
+        "name": "Sayed Website",
+        "finishDate": "24 May 2021",
+        "client": "Sayed",
+        "price": "300",
+        "team": 2,
+        "status": "Rejected"
+      },
+      {
+        "name": "Arena Application",
+        "finishDate": "01 Mar 2021",
+        "client": "Arena Company",
+        "price": "2600",
+        "team": 4,
+        "status": "Completed"
+      }
+    ]
+  },
+  "settings": {
+    "id": "#settings",
+    "title": "Settings",
+    "siteControl": {
+      "websiteControl": true,
+      "message": ""
+    },
+    "generalInfo": {
+      "firstName": "mohammed",
+      "lastName": "radwan",
+      "email": "moh@fff.fff"
+    },
+    "securityInfo": {
+      "password": {
+        "value": "12345678",
+        "updateTime": "15/11/2022"
+      },
+      "twoFactorAuth": false,
+      "devices": [
+        "phone 1",
+        "phone 2",
+        "phone 3",
+        "phone 4"
+      ]
+    },
+    "socialInfo": {
+      "twitter": "moRad1000",
+      "facebook": "moRad2000",
+      "youtube": "moRad3000",
+      "linkedin": "moRad4000"
+    },
+    "widgetsControl": {
+      "quickDraft": false,
+      "yearlyTargets": false,
+      "ticketsStatistics": true,
+      "latestNews": false,
+      "latestTasks": true,
+      "topSearchItems": true
+    },
+    "backupManager": {
+      "time": "weekly",
+      "location": "sigma"
+    }
+  },
+  "profile": {
+    "id": "#profile",
+    "title": "Profile",
+    "userInfo": {
+      "name": "Muhammed Radwan",
+      "level": {
+        "totalLevel": 100,
+        "userLevel": 60
+      },
+      "rating": {
+        "stars": 5,
+        "count": 550
+      }
+    },
+    "infos": [
+      {
+        "title": "General Information",
+        "value": [
+          {
+            "name": "Full Name",
+            "value": "Mohammed Radwan"
+          },
+          {
+            "name": "Gender",
+            "value": "Male"
+          },
+          {
+            "name": "Country",
+            "value": "Syria"
+          }
+        ]
+      },
+      {
+        "title": "Personal Information",
+        "value": [
+          {
+            "name": "Email",
+            "value": "moh@fff.fff"
+          },
+          {
+            "name": "Phone",
+            "value": "019123456789"
+          },
+          {
+            "name": "Date Of Birth",
+            "value": "25/10/1982"
+          }
+        ]
+      },
+      {
+        "title": "Job Information",
+        "value": [
+          {
+            "name": "Title",
+            "value": "Full Stack Developer"
+          },
+          {
+            "name": "Programming Language",
+            "value": "Python"
+          },
+          {
+            "name": "Years Of Experience",
+            "value": "15+"
+          }
+        ]
+      },
+      {
+        "title": "Billing Information",
+        "value": [
+          {
+            "name": "Payment Method",
+            "value": "Paypal"
+          },
+          {
+            "name": "Email",
+            "value": "email@website.com"
+          },
+          {
+            "name": "Subscription",
+            "value": "Monthly"
+          }
+        ]
+      }
+    ],
+    "mySkills": [
+      [
+        "HTML",
+        "Pugjs",
+        "HAML"
+      ],
+      [
+        "CSS",
+        "SASS",
+        "Stylus"
+      ],
+      [
+        "JavaScript",
+        "TypeScript"
+      ],
+      [
+        "Vuejs",
+        "Reactjs"
+      ],
+      [
+        "Jest",
+        "Jasmine"
+      ],
+      [
+        "PHP",
+        "Laravel"
+      ],
+      [
+        "Python",
+        "Django"
+      ]
+    ],
+    "latestActivities": [
+      {
+        "title": "Store",
+        "description": "Bought The Mastering Python Course",
+        "time": "18:10",
+        "date": "Yesterday"
+      },
+      {
+        "title": "Academy",
+        "description": "Got The PHP Certificate",
+        "time": "16:05",
+        "date": "Yesterday"
+      },
+      {
+        "title": "Badges",
+        "description": "Unlocked The 10 Skills Badge",
+        "time": "18:05",
+        "date": "Yesterday"
+      },
+      {
+        "title": "Store",
+        "description": "Bought The Typescript Course",
+        "time": "12:05",
+        "date": "Yesterday"
+      }
+    ]
+  },
+  "projects": {
+    "id": "#projects",
+    "title": "Projects",
+    "projectsInfo": [
+      {
+        "title": "Elzero Dashboard",
+        "description": "Elzero Dashboard Project Design And Programming And Hosting",
+        "date": "15/10/2021",
+        "team": 5,
+        "skills": [
+          "Programming",
+          "Design",
+          "Hosting",
+          "Marketing"
+        ],
+        "cost": 2500,
+        "budget": 5000
+      },
+      {
+        "title": "Academy Portal",
+        "description": "Academy Portal Project Design And Programming",
+        "date": "15/6/2022",
+        "team": 3,
+        "skills": [
+          "Programming",
+          "Design"
+        ],
+        "cost": 1800,
+        "budget": 5000
+      },
+      {
+        "title": "Chatting Application",
+        "description": "Chatting Application Project Design",
+        "date": "15/6/2022",
+        "team": 3,
+        "skills": [
+          "Design"
+        ],
+        "cost": 950,
+        "budget": 5000
+      },
+      {
+        "title": "Ahmed Dashboard",
+        "description": "Ahmed Dashboard Project Design And Programming And Hosting",
+        "date": "15/6/2022",
+        "team": 4,
+        "skills": [
+          "Programming",
+          "Design",
+          "Hosting",
+          "Marketing"
+        ],
+        "cost": 1700,
+        "budget": 5000
+      },
+      {
+        "title": "Mohamed Portal",
+        "description": "Mohamed Portal Project Design And Programming",
+        "date": "15/6/2022",
+        "team": 4,
+        "skills": [
+          "Programming",
+          "Design"
+        ],
+        "cost": 3750,
+        "budget": 5000
+      }
+    ]
+  },
+  "courses": {
+    "id": "#courses",
+    "title": "Courses",
+    "coursesInfo": [
+      {
+        "title": "Mastering Web Design",
+        "description": "Master The Art Of Web Designing And Mocking, Prototyping And Creating Web Design Architecture",
+        "link": "#",
+        "subscribes": 950,
+        "price": 165
+      },
+      {
+        "title": "Data Structure And Algorithms",
+        "description": "Master The Art Of Data Strcuture And Famous Algorithms Like Sorting, Dividing And Conquering",
+        "link": "#",
+        "subscribes": 1150,
+        "price": 210
+      },
+      {
+        "title": "Responsive Web Design",
+        "description": "Mastering Responsive Web Design And Media Queries And Know Everything About Breakpoints",
+        "link": "#",
+        "subscribes": 650,
+        "price": 90
+      },
+      {
+        "title": "Mastering Python",
+        "description": "Mastering Python To Prepare For Data Science And AI And Automating Things in Your Life",
+        "link": "#",
+        "subscribes": 950,
+        "price": 250
+      },
+      {
+        "title": "PHP Examples",
+        "description": "PHP Tutorials And Examples And Practice On Web Application And Connecting With Databases",
+        "link": "#",
+        "subscribes": 850,
+        "price": 150
+      },
+      {
+        "title": "Mastering Web Design",
+        "description": "Master The Art Of Web Designing And Mocking, Prototyping And Creating Web Design Architecture",
+        "link": "#",
+        "subscribes": 950,
+        "price": 165
+      },
+      {
+        "title": "Data Structure And Algorithms",
+        "description": "Master The Art Of Data Strcuture And Famous Algorithms Like Sorting, Dividing And Conquering",
+        "link": "#",
+        "subscribes": 1150,
+        "price": 210
+      },
+      {
+        "title": "Responsive Web Design",
+        "description": "Mastering Responsive Web Design And Media Queries And Know Everything About Breakpoints",
+        "link": "#",
+        "subscribes": 650,
+        "price": 90
+      }
+    ]
+  },
+  "friends": {
+    "id": "#friends",
+    "title": "Friends",
+    "friendsInfo": [
+      {
+        "phone": "5555555555",
+        "mail": "aaa@aa.aa",
+        "name": "Ahmed Nasser",
+        "job": "JavaScript Developer",
+        "friends": 99,
+        "projects": 15,
+        "articles": 25,
+        "date": "02/10/2021",
+        "profile": "#"
+      },
+      {
+        "phone": "5555555555",
+        "mail": "aaa@aa.aa",
+        "name": "Omar Fathy",
+        "job": "Cloud Developer",
+        "friends": 30,
+        "projects": 11,
+        "articles": 12,
+        "date": "02/08/2020",
+        "profile": "#"
+      },
+      {
+        "phone": "5555555555",
+        "mail": "aaa@aa.aa",
+        "name": "Omar Ahmed",
+        "job": "Mobile Developer",
+        "friends": 80,
+        "projects": 20,
+        "articles": 18,
+        "date": "02/06/2020",
+        "profile": "#"
+      },
+      {
+        "phone": "5555555555",
+        "mail": "aaa@aa.aa",
+        "name": "Shady Nabil",
+        "job": "Back-End Developer",
+        "friends": 70,
+        "projects": 30,
+        "articles": 18,
+        "date": "28/06/2020",
+        "profile": "#"
+      },
+      {
+        "phone": "5555555555",
+        "mail": "aaa@aa.aa",
+        "name": "Ahmed Nasser",
+        "job": "JavaScript Developer",
+        "friends": 99,
+        "projects": 15,
+        "articles": 25,
+        "date": "02/10/2021",
+        "profile": "#"
+      },
+      {
+        "phone": "5555555555",
+        "mail": "aaa@aa.aa",
+        "name": "Omar Fathy",
+        "job": "Cloud Developer",
+        "friends": 30,
+        "projects": 11,
+        "articles": 12,
+        "date": "02/08/2020",
+        "profile": "#"
+      },
+      {
+        "phone": "5555555555",
+        "mail": "aaa@aa.aa",
+        "name": "Omar Ahmed",
+        "job": "Mobile Developer",
+        "friends": 80,
+        "projects": 20,
+        "articles": 18,
+        "date": "02/06/2020",
+        "profile": "#"
+      },
+      {
+        "phone": "5555555555",
+        "mail": "aaa@aa.aa",
+        "name": "Shady Nabil",
+        "job": "Back-End Developer",
+        "friends": 70,
+        "projects": 30,
+        "articles": 18,
+        "date": "28/06/2020",
+        "profile": "#"
+      }
+    ]
+  },
+  "files": {
+    "id": "#files",
+    "title": "Files",
+    "filesInfo": [
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.pdf",
+        "admin": "Elzero",
+        "date": "20/06/2020",
+        "size": "5.5"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.avi",
+        "admin": "Admin",
+        "date": "16/5/2021",
+        "size": "12.5"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.eps",
+        "admin": "Uploader",
+        "date": "16/5/2021",
+        "size": "2.7"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.eps",
+        "admin": "Uploader",
+        "date": "16/5/2021",
+        "size": "2.7"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.psd",
+        "admin": "Osama",
+        "date": "20/6/2021",
+        "size": "15.1"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.dll",
+        "admin": "Coder",
+        "date": "16/5/2021",
+        "size": "2.2"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.png",
+        "admin": "Designer",
+        "date": "16/5/2021",
+        "size": "1.1MB"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.pdf",
+        "admin": "Elzero",
+        "date": "20/06/2020",
+        "size": "5.5"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.avi",
+        "admin": "Admin",
+        "date": "16/5/2021",
+        "size": "12.5"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.eps",
+        "admin": "Uploader",
+        "date": "16/5/2021",
+        "size": "2.7"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.eps",
+        "admin": "Uploader",
+        "date": "16/5/2021",
+        "size": "2.7"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.psd",
+        "admin": "Osama",
+        "date": "20/6/2021",
+        "size": "15.1"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.dll",
+        "admin": "Coder",
+        "date": "16/5/2021",
+        "size": "2.2"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.png",
+        "admin": "Designer",
+        "date": "16/5/2021",
+        "size": "1.1MB"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.pdf",
+        "admin": "Elzero",
+        "date": "20/06/2020",
+        "size": "5.5"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.avi",
+        "admin": "Admin",
+        "date": "16/5/2021",
+        "size": "12.5"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.eps",
+        "admin": "Uploader",
+        "date": "16/5/2021",
+        "size": "2.7"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.eps",
+        "admin": "Uploader",
+        "date": "16/5/2021",
+        "size": "2.7"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.psd",
+        "admin": "Osama",
+        "date": "20/6/2021",
+        "size": "15.1"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.dll",
+        "admin": "Coder",
+        "date": "16/5/2021",
+        "size": "2.2"
+      },
+      {
+        "downloadLink": "#",
+        "fileName": "my-file.png",
+        "admin": "Designer",
+        "date": "16/5/2021",
+        "size": "1.1MB"
+      }
+    ],
+    "uploadFiles": [
+      {
+        "fileName": "PDF Files",
+        "count": 130,
+        "size": "6.5GB"
+      },
+      {
+        "fileName": "Images",
+        "count": 115,
+        "size": "3.5GB"
+      },
+      {
+        "fileName": "Word Files",
+        "count": 110,
+        "size": "3.2GB"
+      },
+      {
+        "fileName": "CSV Files",
+        "count": 99,
+        "size": "2.9GB"
+      }
+    ]
+  }
+}
+
